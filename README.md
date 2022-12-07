@@ -3,7 +3,7 @@ Languages I kinda know - Java/Kotlin, C/C++/C#, HTML/CSS/JS, Python \
 Languages I want to learn - Brainfuck, PythOwOn, Assembly 
 
 Things I like - Algorithms, Game development, Physics and Math, Ramen \
-Things I don't like - Gaming, Game development 🙃
+Things I don't like - Gaming (I suck)
 
 Projects I'm working on : Rythm game, Mobile/Desktop app \
 Projects I like : just go to my starred lmao 
