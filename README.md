@@ -1,6 +1,6 @@
 ### Who would've thought using programming to do stupid memes was such a good idea 
 Languages I kinda know - Java/Kotlin, C/C++/C#, HTML/CSS/JS/TS, Python \
-Languages I want to learn - Brainfuck, PythOwOn, Assembly 
+Languages I want to learn - Rust
 
 Things I like - Algorithms, Game development, Physics and Math, Ramen \
 Things I don't like - Gaming (I suck)
