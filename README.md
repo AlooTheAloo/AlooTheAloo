@@ -5,7 +5,7 @@ Languages I want to learn - Rust
 Things I like - Algorithms, Game development, Physics and Math, Ramen \
 Things I don't like - Gaming (I suck)
 
-Projects I'm working on : CLI Language Learning Tool \
+Projects I'm working on : Language Learning Tool \
 Projects I like : just go to my starred lmao 
 
 Feel free to tell me I can't code, I know.
