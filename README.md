@@ -5,7 +5,7 @@ Languages I want to learn - Rust
 Things I like - Algorithms, Game development, Physics and Math, Ramen \
 Things I don't like - Gaming (I suck)
 
-Projects I'm working on : [AutoProgressLog]([www.google.com](https://www.aplapp.dev/)) \
+Projects I'm working on : [AutoProgressLog](https://www.aplapp.dev/) \
 Projects I like : just go to my starred lmao 
 
 Feel free to tell me I can't code, I know.
